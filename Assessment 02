@@ -1,0 +1,13 @@
+a=int(raw_input())
+b=int(raw_input())
+Print(a/b)
+
+
+
+
+Output
+Enter the values
+a=3
+b=5
+
+0.6
